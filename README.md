@@ -14,10 +14,11 @@ To write a program to prepare EMI calculator using function without return type 
 6.	Stop the program.
 
 ## PROGRAM
-
+![Screenshot 2025-04-26 040416](https://github.com/user-attachments/assets/54d52e45-bbe6-4224-99a8-a7b9f3b8d592)
 
 ## OUTPUT
 
+![Screenshot 2025-04-26 040427](https://github.com/user-attachments/assets/5b52f200-ec17-4406-8116-e6cd332f39b3)
 
 
 
@@ -43,8 +44,10 @@ To write a C program to generate the Fibonacci series for the value 6.
 7.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 040733](https://github.com/user-attachments/assets/ab4a8bfa-3e48-4c90-a060-56f883684e46)
 
 ## OUTPUT
+![Screenshot 2025-04-26 040742](https://github.com/user-attachments/assets/8dea8e5a-96e1-47c0-b2e4-c6baae90046b)
 
 
 
@@ -71,8 +74,10 @@ To write a C program to read n elements as input and print the last element of t
 5.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 041456](https://github.com/user-attachments/assets/2f19943d-82ed-4b51-baf4-3ceed10b8e18)
 
 ## OUTPUT
+![Screenshot 2025-04-26 041502](https://github.com/user-attachments/assets/61a79065-c4a6-40d4-9be1-dba1f900843e)
 
 
 
@@ -101,9 +106,11 @@ To write a C Program to count total number of positive elements in an array.
 6.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 042604](https://github.com/user-attachments/assets/0b5418da-21c6-44e1-ad83-a658bfaccab9)
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/1f41ff34-0b55-4c75-8c9f-8ba29a33067a)
 
 
 
@@ -137,9 +144,11 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
  Print the updated array after replacements.
 
 ## Program:
+![Screenshot 2025-04-26 043326](https://github.com/user-attachments/assets/09a3ab02-c074-4b75-bb14-321bc19b581d)
 
 ## Output:
- 
+ ![Screenshot 2025-04-26 043331](https://github.com/user-attachments/assets/1b1ab290-7d6a-4fc1-b1a5-6dec0cd57372)
+
 
 
 ## Result:
